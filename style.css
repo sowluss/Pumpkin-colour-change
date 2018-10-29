@@ -15,11 +15,12 @@ h2 {
   /* align-items: center;
   justify-items: center; */
   justify-content: center;
-  color: white;
+  color: rgb(233, 217, 221);
   z-index: 1;
   font-family: 'Yesteryear', cursive;
   letter-spacing: 12px;
   font-size: 60px;
+   
 }
 
 section {
